@@ -31,6 +31,5 @@
 ![scikitlearn](https://img.shields.io/static/v1?logo=scikitlearn&label=&message=scikitlearn&color=111&logoColor=AAA&style=flat-square)
 ![numpy](https://img.shields.io/static/v1?logo=numpy&label=&message=numpy&color=111&logoColor=AAA&style=flat-square)
 ![pandas](https://img.shields.io/static/v1?logo=pandas&label=&message=pandas&color=111&logoColor=AAA&style=flat-square)
-![nodejs](https://img.shields.io/static/v1?logo=node.js&label=&message=node.js&color=111&logoColor=AAA&style=flat-square)
 
 
