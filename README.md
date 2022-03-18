@@ -16,7 +16,7 @@
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=c0c0c0&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
-![Matlab](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
+![Matlab](https://img.shields.io/static/v1?logo=matlab&label=&message=matlab&color=111&logoColor=AAA&style=flat-square&link=)
 ![c](https://img.shields.io/static/v1?logo=C&label=&message=C&color=111&logoColor=AAA&style=flat-square&link=)
 ![latex](https://img.shields.io/static/v1?logo=latex&label=&message=latex&color=111&logoColor=AAA&style=flat-square&link=)
 <br/>
