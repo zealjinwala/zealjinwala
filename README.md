@@ -5,7 +5,6 @@
 -->
 
 - 🐉 I'm an undergraduate senior at **Drexel University**<br/>
-- 🌎 I'm from Gujarat, India
 - 🎓 I’m currently pursuing B.S. Biomedical Engineering with a bioinformatics concentration
 - 🌱 I’m currently learning workflow technologies (CWL, WDL), NGS pipeline tools, and documentation tactics
 - 👯 I’m looking for entry-level bioinformatics engineer, NGS data analyst and computational biology roles
