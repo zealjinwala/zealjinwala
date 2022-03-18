@@ -24,13 +24,16 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 ![pycharm](https://img.shields.io/static/v1?logo=pycharm&label=&message=pycharm&color=111&logoColor=AAA&style=flat-square)
 ![visualstudiocode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=vscode&color=111&logoColor=AAA&style=flat-square)
+![Tableau](https://img.shields.io/static/v1?logo=Tableau&label=&message=Tableau&color=111&logoColor=AAA&style=flat-square)
 ![Jupyter](https://img.shields.io/static/v1?logo=jupyter&label=&message=jupyter&color=111&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
+
 <br/>
 ![bioinformatics](https://img.shields.io/static/v1?label=&message=bioinformatics:&color=c0c0c0&style=flat-square)
 ![BLAST](https://img.shields.io/static/v1?logo=BLAST&label=&message=BLAST&color=111&logoColor=AAA&style=flat-square)
 ![Samtools](https://img.shields.io/static/v1?logo=Samtools&label=&message=Samtools&color=111&logoColor=AAA&style=flat-square)
 ![BWA](https://img.shields.io/static/v1?logo=BWA&label=&message=BWA&color=111&logoColor=AAA&style=flat-square)
+![ImageJ](https://img.shields.io/static/v1?logo=ImageJ&label=&message=ImageJ&color=111&logoColor=AAA&style=flat-square)!
 <br/>
 ![frameworks](https://img.shields.io/static/v1?label=&message=frameworks%2Flibraries:&color=c0c0c0&style=flat-square)
 ![scikitlearn](https://img.shields.io/static/v1?logo=scikitlearn&label=&message=scikitlearn&color=111&logoColor=AAA&style=flat-square)
