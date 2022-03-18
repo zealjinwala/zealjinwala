@@ -27,7 +27,6 @@
 ![Tableau](https://img.shields.io/static/v1?logo=Tableau&label=&message=Tableau&color=111&logoColor=AAA&style=flat-square)
 ![Jupyter](https://img.shields.io/static/v1?logo=jupyter&label=&message=jupyter&color=111&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
-
 <br/>
 ![bioinformatics](https://img.shields.io/static/v1?label=&message=bioinformatics:&color=c0c0c0&style=flat-square)
 ![BLAST](https://img.shields.io/static/v1?logo=BLAST&label=&message=BLAST&color=111&logoColor=AAA&style=flat-square)
