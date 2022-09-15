@@ -6,7 +6,7 @@
 
 - 🎓 I'm a clinical genomics data scientist at PennMedicine**<br/>
 - 🐉 I graduated from Drexel University withi a B.S. Biomedical Engineering- Bioinformatics concentration
-- 🌱 I’m currently learning workflow technologies (CWL, snakemake), NGS pipeline tools, and documentation tactics
+- 🌱 I’m currently learning workflow technologies (CWL, snakemake), statistical genomics, and documentation tactics
 - 📧 Work Email: **zeal.jiwnala (at) pennmedicine (dot) upenn (dot) edu**
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I play squash and like to go hiking
