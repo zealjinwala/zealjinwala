@@ -4,12 +4,13 @@
 **zealjinwala/zealjinwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🎓 I'm a clinical genomics data scientist at PennMedicine**<br/>
-- 🐉 I graduated from Drexel University withi a B.S. Biomedical Engineering- Bioinformatics concentration
-- 🌱 I’m currently learning workflow technologies (CWL, snakemake), statistical genomics, and documentation tactics
-- 📧 Work Email: **zeal.jiwnala (at) pennmedicine (dot) upenn (dot) edu**
+- 🎓 I'm a clinical genomics data scientist at PennMedicine <br/>
+- 🐉 I graduated from Drexel University withi a B.S. Biomedical Engineering, Bioinformatics
+- 🌱 I’m currently learning statistical genomics, workflow technologies and documentation tactics
+- 📧 Work Email: **zeal.jinwala@pennmedicine.upenn.edu**
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I play squash and like to go hiking
+- 
 
 ----
 
