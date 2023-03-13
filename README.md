@@ -10,7 +10,6 @@
 - 📧 Work Email: **zeal.jinwala@pennmedicine.upenn.edu**
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I play squash and like to go hiking
-- 
 
 ----
 
