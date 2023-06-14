@@ -5,8 +5,8 @@
 -->
 
 - 🎓 I'm a clinical genomics data scientist at PennMedicine <br/>
-- 🐉 I graduated from Drexel University withi a B.S. Biomedical Engineering, Bioinformatics
-- 🌱 I’m currently learning statistical genomics, workflow technologies and documentation tactics
+- 🐉 I graduated from Drexel University with a B.S. in Biomedical Engineering, Bioinformatics
+- 🌱 I’m currently learning computational genomics methods and workflow languages 
 - 📧 Work Email: **zeal.jinwala@pennmedicine.upenn.edu**
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I play squash and like to go hiking
