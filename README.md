@@ -4,13 +4,6 @@
 **zealjinwala/zealjinwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🎓 I'm a data science research trainee at PennMedicine <br/>
-- 🐉 I graduated from Drexel University with a B.S. in Biomedical Engineering, Biomedical Informatics concentration
-- 📧 Work Email: **zeal.jinwala@pennmedicine.upenn.edu**
-- 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I play squash and like to go hiking
-
-----
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=c0c0c0&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
